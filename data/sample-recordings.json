@@ -1,0 +1,55 @@
+{
+  "recordings": [
+    {
+      "id": "694038",
+      "gen": "Troglodytes",
+      "sp": "troglodytes",
+      "en": "Eurasian Wren",
+      "rec": "Jacobo Ramil Millarengo",
+      "cnt": "Spain",
+      "loc": "Sisalde, Ames, A Coruña, Galicia",
+      "lat": "42.8373",
+      "lng": "-8.652",
+      "type": "song",
+      "url": "//xeno-canto.org/694038",
+      "file": "//xeno-canto.org/694038/download",
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/",
+      "q": "A",
+      "length": "4:08"
+    },
+    {
+      "id": "686584",
+      "gen": "Rhea",
+      "sp": "americana",
+      "en": "Greater Rhea",
+      "rec": "Jayrson Araujo de Oliveira",
+      "cnt": "Brazil",
+      "loc": "Parque Estadual do Espinilho, Barra do Quaraí",
+      "lat": "-30.1834",
+      "lng": "-57.4501",
+      "type": "adult, sex uncertain, song",
+      "url": "//xeno-canto.org/686584",
+      "file": "//xeno-canto.org/686584/download",
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/",
+      "q": "A",
+      "length": "0:09"
+    },
+    {
+      "id": "903055",
+      "gen": "Turdus",
+      "sp": "merula",
+      "en": "Common Blackbird",
+      "rec": "Stanislas Wroza",
+      "cnt": "France",
+      "loc": "Arrondissement de Bastia (near Rogliano), Haute-Corse, Corse",
+      "lat": "42.9747",
+      "lng": "9.4527",
+      "type": "song",
+      "url": "//xeno-canto.org/903055",
+      "file": "//xeno-canto.org/903055/download",
+      "lic": "//creativecommons.org/licenses/by-nc-sa/4.0/",
+      "q": "A",
+      "length": "1:20"
+    }
+  ]
+}
